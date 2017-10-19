@@ -327,7 +327,7 @@ src/app/design/frontend/base/default/template/seo                               
 src/app/design/frontend/base/default/template/seositemap                                           app/design/frontend/base/default/template/seositemap                                          
 src/app/etc/modules/Mirasvit_MstCore.xml                                                           app/etc/modules/Mirasvit_MstCore.xml                                                          
 src/app/etc/modules/Mirasvit_Seo.xml                                                               app/etc/modules/Mirasvit_Seo.xml                                                              
-src/app/etc/modules/ZMirasvit_SeoAutolink.xml                                                       app/etc/modules/ZMirasvit_SeoAutolink.xml
+src/app/etc/modules/Mirasvit_SeoAutolink.xml                                                       app/etc/modules/Mirasvit_SeoAutolink.xml
 src/app/etc/modules/Mirasvit_SeoFilter.xml                                                         app/etc/modules/Mirasvit_SeoFilter.xml                                                        
 src/app/etc/modules/Mirasvit_SeoSitemap.xml                                                        app/etc/modules/Mirasvit_SeoSitemap.xml                                                       
 src/app/locale/en_US/Mirasvit_Seo.csv                                                              app/locale/en_US/Mirasvit_Seo.csv                                                             
